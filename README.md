@@ -2,7 +2,7 @@
 
 <br>
 
-- Names (**Kai Darkmoon**) 
+- Name is (**Kai Darkmoon**) 
 <br><br>
 I am new to coding and I am here to learn all I can and hoepfully get somewhere with it. Yes I don't know much about coding but I am learning while I am d=coding at the same time. </a>
 <br><br>
