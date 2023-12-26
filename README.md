@@ -8,6 +8,8 @@ I am new to coding and I am here to learn all I can and hoepfully get somewhere 
 <br><br>
 
 <a href="https://discord.com/channels/@me/315297650641731584"> <img src="https://discord.c99.nl/widget/theme-2/315297650641731584.png" alt="contact mee">
+![Discord](https://img.shields.io/discord/1052653325021085799)
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
