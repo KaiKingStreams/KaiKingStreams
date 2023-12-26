@@ -1,4 +1,4 @@
-<img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> **About me**
+## <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> **About me**
 
 <br>
 
