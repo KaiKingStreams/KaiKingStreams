@@ -10,7 +10,6 @@ I am new to coding and I am here to learn all I can and hoepfully get somewhere 
 <a href="https://discord.com/channels/@me/315297650641731584"> <img src="https://discord.c99.nl/widget/theme-2/315297650641731584.png" alt="contact mee">
 
 ![Discord](https://img.shields.io/discord/1052653325021085799)
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W83HGHB)
 
 
