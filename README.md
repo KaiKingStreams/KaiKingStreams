@@ -11,6 +11,8 @@ I am new to coding and I am here to learn all I can and hoepfully get somewhere 
 
 ![Discord](https://img.shields.io/discord/1052653325021085799)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W83HGHB)
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
