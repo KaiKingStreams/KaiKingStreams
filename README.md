@@ -7,7 +7,7 @@
 I am new to coding and I am here to learn all I can and hoepfully get somewhere with it. Yes I don't know much about coding but I am learning while I am d=coding at the same time. </a>
 <br><br>
 
-<a href="https://discord.com/channels/@me/315297650641731584"> <img src="https://discord.c99.nl/widget/theme-5/315297650641731584.png" alt="contact mee">
+<a href="https://discord.com/channels/@me/315297650641731584"> <img src="https://discord.c99.nl/widget/theme-4/315297650641731584.png" alt="contact mee">
 
 ![Discord](https://img.shields.io/discord/1052653325021085799) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W83HGHB)
 
